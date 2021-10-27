@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocAutomation", "DocAutomation\DocAutomation.csproj", "{723CD413-C987-410D-947A-EB25FB5A35F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{A5D1F94B-59BA-4AF5-A29D-1C0E44144E25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{A5D1F94B-59BA-4AF5-A29D-1C0E44144E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerBI", "PowerBI\PowerBI.csproj", "{5DA7063D-24C9-4D7A-8399-E64859E22DC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A5D1F94B-59BA-4AF5-A29D-1C0E44144E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5D1F94B-59BA-4AF5-A29D-1C0E44144E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5D1F94B-59BA-4AF5-A29D-1C0E44144E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA7063D-24C9-4D7A-8399-E64859E22DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA7063D-24C9-4D7A-8399-E64859E22DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA7063D-24C9-4D7A-8399-E64859E22DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA7063D-24C9-4D7A-8399-E64859E22DC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
